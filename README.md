@@ -2,7 +2,7 @@
 
 
 A new Flutter project.
-![App Screenshot](assets/weather1.jpg)
+![App Screenshot](assets/weather4.jpg)
 ![App Screenshot](assets/weather2.jpg)
 ![App Screenshot](assets/weather3.jpg)
 ## Getting Started
