@@ -1,4 +1,5 @@
-# weath
+# weather balcony alert app
+
 
 A new Flutter project.
 ![App Screenshot](assets/weather1.jpg)
